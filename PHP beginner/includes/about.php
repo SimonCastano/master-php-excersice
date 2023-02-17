@@ -1,0 +1,8 @@
+<?php
+ include 'includes/header.php'; 
+?>
+<h2>about</h2>
+<i>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eligendi rerum, maxime delectus nesciunt doloremque repellendus exercitationem suscipit, consequatur dignissimos cum dolorem voluptatum sapiente inventore? Autem obcaecati tempore, explicabo laudantium perferendis quo, voluptas ullam, in commodi ducimus rem optio tenetur! Sit incidunt adipisci molestias mollitia velit libero doloremque dignissimos veritatis architecto eos fugiat, placeat consequuntur temporibus maiores totam doloribus voluptatum tenetur. Natus, architecto! Molestias, deleniti fuga, harum recusandae sint temporibus eius odio ab perspiciatis pariatur et ad nulla laborum repellendus maxime aperiam nemo voluptatum, velit odit voluptatem minus rerum ut nihil numquam! Debitis impedit reprehenderit rem et distinctio dolores, laudantium fuga magni doloremque quo tempore inventore voluptatum repudiandae nihil modi culpa neque placeat velit quaerat ratione omnis sed ea. Dolore, delectus id distinctio ad illo assumenda? Quo aspernatur tenetur architecto vero autem, excepturi quisquam eos deleniti, laborum ipsum id aut enim iure. Ipsum modi nobis ad et beatae, ipsam sit maxime! Quaerat voluptatem autem ab? Aliquam voluptates eius consectetur laboriosam repellendus blanditiis deserunt hic? Eum ipsum odio quos a corrupti veritatis numquam exercitationem, sint repudiandae earum aliquam, ut accusantium voluptates animi aspernatur alias atque libero vel deserunt? Provident, at. Inventore eligendi porro, quam vero tenetur ex vel cumque quibusdam a explicabo.</i>
+<?php
+ include 'includes/footer.php'; 
+?>
