@@ -1,0 +1,43 @@
+header{
+    display: flex;
+    width: 100%;
+    padding: 0.5rem;
+    justify-content: space-around;
+    background-color: $bg1;
+    color: $black1;
+    font-family: 'Poppins', sans-serif;
+    font-size: 26px;
+    font-weight: 800;
+    h2{
+
+        a{
+            color: $black1;
+            text-decoration: none;
+        }
+    }
+    nav{
+        ul{
+            list-style: none;
+            display: flex;
+            padding: 0.5rem;
+            gap: 0.5rem;
+            a{
+                border: none;
+                text-decoration: none;
+                text-align: center;
+                color: $black1;
+                font-family: 'Poppins', sans-serif;
+                font-size: 16px;
+                font-weight: 800;
+                padding: 0.2rem 1rem;
+                transition: all 0.2s ease;
+                border-radius: 10px;
+                &:hover{
+                    background-color: $bg2;
+                    border-bottom: 5px solid $black1;
+                    transition: all 0.2s ease;
+                }
+            }
+        }
+    }
+}
